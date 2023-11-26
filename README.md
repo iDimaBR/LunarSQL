@@ -1,7 +1,7 @@
-# Nome do Projeto
+# LunarSQL
 
 ## Descrição
-Uma breve descrição do seu projeto.
+Uma API feita para auxiliar no manuseio de conexões e consultas ao banco de dados.
 
 ## Tecnologias Utilizadas
 - Java
